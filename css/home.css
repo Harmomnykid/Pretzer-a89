@@ -61,6 +61,7 @@ body {
     outline: none;
     color: white;
 	transition: 0.2s;
+	align: middle
 }
 @media (orientation: portrait) {
 	.search {
